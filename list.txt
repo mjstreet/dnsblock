@@ -13,4 +13,4 @@ voxmedia.com
 trustx.org
 amazon-adsystem.com
 gstatic.com
-voox-cdn.com
+vox-cdn.com
