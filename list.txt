@@ -1,0 +1,16 @@
+notifcations.google.com
+google-analytics.com
+futurecdn.net
+taboola.com
+rubiconproject.com
+kxrd.com
+doubleclick.net
+openx.net
+3lift.com
+casalemedia.com
+adnxs.com
+voxmedia.com
+trustx.org
+amazon-adsystem.com
+gstatic.com
+voox-cdn.com
