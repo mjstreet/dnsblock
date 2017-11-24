@@ -257,3 +257,6 @@ s.gateway.messenger.live.com
 65.39.117.230
 65.52.108.33
 65.55.108.23
+usa.cloud.netacuity.com
+adservice.google.co.uk
+web.vortex.data.microsoft.com
