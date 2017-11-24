@@ -115,5 +115,4 @@ watson.telemetry.microsoft.com.nsatc.net
 geo-prod.do.dsp.mp.microsoft.com
 kv601-prod.do.dsp.mp.microsoft.com
 cp601-prod.do.dsp.mp.microsoft.com
-ocsp.digicert.com
 dcp.cpp.philips.com
