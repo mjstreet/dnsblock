@@ -32,3 +32,6 @@ smugmug.com
 googleadservices.com
 hwcdn.net
 criteo.net
+sofia.trustx.org
+voxmedia.com
+tlx.3lift.com
