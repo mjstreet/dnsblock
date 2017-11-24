@@ -1,4 +1,3 @@
-notifcations.google.com
 google-analytics.com
 futurecdn.net
 taboola.com
@@ -14,3 +13,22 @@ trustx.org
 amazon-adsystem.com
 gstatic.com
 vox-cdn.com
+intergi.com
+disqus.com
+netdna-cdn.com
+quantserve.com
+youtube-nocookie.com
+feedgrabbr.com
+bluekai.com
+tumblr.com
+blogger.com
+blogspot.com
+eyeota.net
+addthis.com
+crwdcntrl.net
+blogblog.com
+googlesyndication.com
+smugmug.com
+googleadservices.com
+hwcdn.net
+criteo.net
