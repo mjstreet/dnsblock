@@ -35,3 +35,5 @@ criteo.net
 sofia.trustx.org
 voxmedia.com
 tlx.3lift.com
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
