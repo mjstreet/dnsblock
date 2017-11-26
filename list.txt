@@ -260,3 +260,7 @@ s.gateway.messenger.live.com
 usa.cloud.netacuity.com
 adservice.google.co.uk
 web.vortex.data.microsoft.com
+android-api-us.crackle.com
+37830159-97ad-e5e0-ad06-88265d605def.local
+af711997-f98e-1a0b-0380-6515ec114289.local
+6d044652-d7de-aa7e-10b3-523b58c61efc.local
