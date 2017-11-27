@@ -272,3 +272,9 @@ mozart.hulu.com
 b02.black.ndmdhs.com
 metadata.erabu.sony.tv
 www.sony.net
+liberty.logs.roku.com
+roku.static.nowtv.com
+cloudservices.roku.com
+dap.sky.com
+api.rokutime.com
+webstatic.nowtv.com
