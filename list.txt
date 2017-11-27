@@ -281,3 +281,8 @@ api.rokutime.com
 webstatic.nowtv.com
 p.videologygroup.com
 cdn.onenote.net
+fwmrm.net
+scribe.logs.roku.com
+2a7e9.v.fwmrm.net
+webstat.channel4.com
+ak.xbox.c4assets.com
