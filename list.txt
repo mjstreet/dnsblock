@@ -315,3 +315,7 @@ www.audiencemanager.de
 www.d20srd.org
 www.highsnobiety.com
 www.lexicanum.com
+disqus.com
+exelator.com
+futurecdn.net
+googletagservices.com
