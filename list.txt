@@ -286,3 +286,4 @@ scribe.logs.roku.com
 2a7e9.v.fwmrm.net
 webstat.channel4.com
 ak.xbox.c4assets.com
+cdn.ss.anno.channel4.com
