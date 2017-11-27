@@ -287,3 +287,13 @@ scribe.logs.roku.com
 webstat.channel4.com
 ak.xbox.c4assets.com
 cdn.ss.anno.channel4.com
+mixpanel.com
+spade.twitch.com
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
+tyler.logs.roku.com
+giga.logs.roku.com
+cooper.logs.roku.com
+mercury.itv.com
+b.scorecardresearch.com
+toots-a.akamaihd.net
