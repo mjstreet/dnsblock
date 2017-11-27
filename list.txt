@@ -269,4 +269,6 @@ graph.facebook.com
 api.meta.ndmdhs.com
 ib1.huluim.com
 mozart.hulu.com
-api-global.netflix.com
+b02.black.ndmdhs.com
+metadata.erabu.sony.tv
+www.sony.net
